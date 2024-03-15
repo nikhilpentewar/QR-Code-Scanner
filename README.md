@@ -20,7 +20,7 @@ pip install opencv-python pyzbar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/qr-code-scanner.git
+git clone https://github.com/nikhilpentewar/qr-code-scanner.git
 ```
 2.Navigate to the project directory:
 ```bash
